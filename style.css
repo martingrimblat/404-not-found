@@ -1,0 +1,21 @@
+.flex{
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+}
+
+.flex-2{
+
+	display: flex;
+	flex-direction: column;
+}
+
+
+.container{
+
+	width: 85%;
+	overflow: auto;
+	margin: auto;
+}
